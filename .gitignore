@@ -1,0 +1,7 @@
+# Vim backup files
+*~
+*.swp
+
+# node packages
+node_packages/
+
